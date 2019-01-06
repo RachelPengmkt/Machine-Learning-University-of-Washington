@@ -1,6 +1,6 @@
 # Machine-Learning-University-of-Washington
 
-# My machine learning projects about regression, classification and clustering All projects are completed using Pandas, Numpy, Scikit-learn and matplotlib. 
+## My machine learning projects about regression, classification and clustering All projects are completed using Pandas, Numpy, Scikit-learn and matplotlib. 
 
 There are 4 courses in the Machine Learning Specialization provided by University of Washington via Coursera.
 
